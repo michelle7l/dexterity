@@ -1,0 +1,87 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Aleo-Regular;
+}
+
+
+img.resize {
+  max-width:30%;
+  max-height:30%;
+  padding-bottom: 40px;
+}
+
+img.resize1 {
+  max-width:30%;
+  max-height:30%;
+}
+
+img{
+	display: block;
+	margin: auto;
+}
+
+p {
+	text-align: center;
+}
+.dropzone {
+	margin: auto;
+	background-color: #D1E7E6;
+	padding: 24px;
+	padding-top: 50px;
+	width:50%;
+	height:300px;
+	border-radius: 10px;
+	border: 2px dashed #000000;
+	color: #000000;
+	text-align: center;
+	font-size: 35px;
+	font-family: Aleo-Regular;
+	box-shadow: 0 0 0 10px #D1E7E6;
+}
+.smallertext {
+	font-size: 25px;
+}
+.dropzone.dropover {
+	border-color:#232323;
+}
+
+#upload-form {
+	left: 50%;
+	border: 1px #000000;
+	padding: 20px;
+	width: 200px;
+	font-size: 10px;
+}
+
+
+/* Rectangle 2: */
+opacity: 0.8;
+background: #D0ECEB;
+border: 1px solid #979797;
+
+
+/* Rectangle: */
+opacity: 0.92;
+border: 3px solid #656565;
+
+
+
+/* Line: */
+border: 14px solid #00686D;
+/* Line 2: */
+border: 15px solid #00686D;
+/* Line 2: */
+border: 15px solid #00686D;
+/* Line 2: */
+border: 15px solid #00686D;
+/* Line 3: */
+border: 14px solid #00686D;
+/* Line 3: */
+border: 14px solid #00686D;
+
+
+/* to upload a picture: */
+font-family: Aleo-Regular;
+font-size: 35px;
+color: #000000;
